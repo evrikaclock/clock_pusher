@@ -11,4 +11,4 @@ on Windows:
 (venv)>pip install -r requirements.txt
 ```
 ## Usage
-```python main.py```
+```(venv)>python main.py```
